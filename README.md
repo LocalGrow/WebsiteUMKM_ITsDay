@@ -57,6 +57,7 @@ Petunjuk lokasi, GoFood/ShopeeFood links, dan social media disatukan dalam satu 
 > ![Preview Website](img/bot.jpg)
 
 Website ini tampil *mobile-first* dan responsif — dari layar HP sampai desktop, semuanya optimal.
+
 [![Live Demo](https://img.shields.io/badge/🌐%20Live-Demo-green?style=flat&logo=github)](https://localgrow.github.io/WebsiteUMKM_ITsDay/)
 
 ---
