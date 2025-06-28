@@ -68,3 +68,4 @@ Website ini dibangun dengan pendekatan *static web* namun kaya fitur seperti apl
 
 **Dibuat dengan penuh rasa lapar dan cinta oleh tim LocalGrow.**
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live-Demo-green?style=flat&logo=github)](https://localgrow.github.io/WebsiteUMKM_ITsDay/)
