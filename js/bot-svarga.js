@@ -124,7 +124,7 @@ function showTypingIndicator() {
     typingDiv.className = 'bot-message';
     
     const iconImg = document.createElement('img');
-    iconImg.src = 'https://i.ibb.co/0j7XJ3z/robot-icon.png';
+    iconImg.src = 'img/bot.jpg';
     iconImg.className = 'bot-icon';
     iconImg.alt = 'Bot Icon';
     
