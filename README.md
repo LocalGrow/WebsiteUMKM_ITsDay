@@ -54,7 +54,7 @@ Petunjuk lokasi, GoFood/ShopeeFood links, dan social media disatukan dalam satu 
 
 ## 📸 Tampilan Singkat
 
-> ![Preview Website](img/bot.jpg)
+> ![Preview Website](poster.jpg)
 
 Website ini tampil *mobile-first* dan responsif — dari layar HP sampai desktop, semuanya optimal.
 
