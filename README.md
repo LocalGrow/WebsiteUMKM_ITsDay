@@ -41,7 +41,7 @@ Petunjuk lokasi, GoFood/ShopeeFood links, dan social media disatukan dalam satu 
 
 ---
 
-##👨‍🍳 Tim Pengembang
+## 👨‍🍳 Tim Pengembang
 
 | Nama Lengkap  	     | 
 | -------------------------- | 
