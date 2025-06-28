@@ -37,7 +37,6 @@ Petunjuk lokasi, GoFood/ShopeeFood links, dan social media disatukan dalam satu 
 | `Google Fonts` | Tipografi yang konsisten dan elegan |
 | `WhatsApp API` | Pemesanan instan via WA |
 | `Google Maps Embed` | Penunjuk lokasi bisnis |
-| `Audio Player` | Efek suara saat loading |
 | `Custom JS Chatbot` | Asisten virtual tanpa backend |
 
 ---
