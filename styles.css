@@ -3105,6 +3105,7 @@ textarea.form-control {
 
 .contact-item span {
   color: #cccccc;
+  text-align: left;
 }
 
 .footer-map iframe {
